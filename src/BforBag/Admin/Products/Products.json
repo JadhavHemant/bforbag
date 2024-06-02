@@ -1,0 +1,1404 @@
+[
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 1",
+        "product_price": "$10.99",
+        "product_description": "This is product 1",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 2",
+        "product_price": "$20.50",
+        "product_description": "This is product 2",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 3",
+        "product_price": "$15.75",
+        "product_description": "This is product 3",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 4",
+        "product_price": "$30.00",
+        "product_description": "This is product 4",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 5",
+        "product_price": "$25.49",
+        "product_description": "This is product 5",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 6",
+        "product_price": "$12.99",
+        "product_description": "This is product 6",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 7",
+        "product_price": "$18.00",
+        "product_description": "This is product 7",
+        "product_category": "Category 3",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 8",
+        "product_price": "$22.50",
+        "product_description": "This is product 8",
+        "product_category": "Category 2",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 9",
+        "product_price": "$9.99",
+        "product_description": "This is product 9",
+        "product_category": "Category 1",
+        "product_images": "../images/product-1.jpg"
+    },
+    {
+        "product_name": "Product 10",
+        "product_price": "$35.00",
+        "product_description": "This is product 10",
+        "product_category": "Category 3",
+        "product_images": [
+            "image28.jpg"
+        ]
+    }
+]
