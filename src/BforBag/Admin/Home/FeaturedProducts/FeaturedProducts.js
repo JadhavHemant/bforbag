@@ -10,7 +10,7 @@ const FeaturedProducts = () => {
                 Launching Soon
             <hr class="mx-auto w-40 h-2 bg-orange-500 border rounded-xl " />
             </div>
-            <div className='grid grid-cols-2 md:grid-cols-3 gap-5 max-w-auto lg:p-[100px]'>
+            <div className='grid grid-cols-3 md:grid-cols-3 gap-5 max-w-auto lg:p-[100px]'>
                 <div className='md:grid-flow-row   border-black  border-[2px]'>
                     <img src={Product1} alt="name" className='border' />
                     <div className='pl-2 p-2'>

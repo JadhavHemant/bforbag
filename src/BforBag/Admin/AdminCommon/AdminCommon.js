@@ -23,8 +23,8 @@ const UserCommon = () => {
     <>
       <header className="sticky top-0">
         <nav>
-          <div className="mx-auto  backdrop-blur-sm bg-white/30 text-[14px] w-max-auto">
-            <div className="flex justify-between mx-auto ">
+          <div className="mx-auto bg-[white] text-[14px] w-max-auto">
+            <div className="flex justify-between mx-auto p-2">
               <div className="flex items-center justify-between my-2 lg:justify-end gap-[40px]">
                 <Link to="/">
                   <div className="pl-4">
@@ -45,7 +45,7 @@ const UserCommon = () => {
               </div>
             </div>
           </div>
-          <div className={`fixed z-40 w-full backdrop-blur-sm overflow-hidden flex flex-col lg:hidden gap-12 ${toggleMenu ? "h-auto" : "h-0"}`}>
+          <div className={`fixed z-40 w-full bg-[white] overflow-hidden flex flex-col lg:hidden gap-12 ${toggleMenu ? "h-auto" : "h-0"}`}>
             <div className="px-8 text-center">
               <div className="flex flex-col gap-8 font-bold overflow-visible tracking-wider pt-4 pb-4">
               <Link to="" onClick={handleLinkClick}>Home</Link>
