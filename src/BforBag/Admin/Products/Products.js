@@ -14,7 +14,7 @@ const Products = () => {
 
   return (
     <>
-      <div >
+      <div>
        <SubCate/>
       </div>
       {/*  */}
